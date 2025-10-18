@@ -1,0 +1,5 @@
+{
+  "name": "Supabase Real-Time Chat",
+  "description": "A WhatsApp-style real-time chat application built with React and Tailwind CSS, using a simulated Supabase backend for live messaging, typing indicators, and image uploads.",
+  "requestFramePermissions": []
+}
